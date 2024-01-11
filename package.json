@@ -1,0 +1,11 @@
+{
+  "name": "worksheet-hash-cracker",
+  "version": "1.0.0",
+  "description": "Crack Excel worksheet 2-byte hashes with Node.Js",
+  "main": "crack-it.js",
+  "scripts": {
+    "start": "node crack-it.js"
+  },
+  "author": "Esinko <dev@esinko.net>",
+  "license": "MIT; See LICENSE file"
+}
